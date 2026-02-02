@@ -1,0 +1,6 @@
+event_type,priority_level
+death,1
+exit,2
+series_finale,3
+finale,4
+premiere,5
